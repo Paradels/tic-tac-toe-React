@@ -4,9 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
-  return
+  return <h1>Tic Tac Toe</h1>
   
 }
 
